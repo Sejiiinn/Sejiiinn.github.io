@@ -10,7 +10,7 @@ exclude:
 
 # Site settings
 title: My Coding Notes
-subtitle: "코딩 연습장"
+subtitle: "코딩 ?�습??
 email: rlatpwlsdlek@naver.com
 name: Sejin Kim
 description: >
@@ -78,14 +78,14 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: ""
+    url: ""
     desc: Follow me on Twitter
     share: true
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
+    username: ""
     url: ""
     desc: Friend me on Facebook
     share: true
